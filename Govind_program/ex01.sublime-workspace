@@ -1,0 +1,236 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"wordpress",
+				"wordpress"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "\nputs \"Hello World!\"\nputs \"Hello Again\"\nputs \"I like typing this.\"\nputs \"This is fun.\"\nputs \"Yay! Printing.\"\nputs \"I'd much rather you 'not'.\"\nputs 'I \"said\" do not touch this.\n",
+			"settings":
+			{
+				"buffer_size": 177,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/jazz/Desktop/Govind_program/ex01.sublime-workspace",
+		"/home/jazz/Desktop/Govind_program/ex01.rb",
+		"/home/jazz/branchmarketing/app/jobs/rss_data_seeder_job.rb",
+		"/var/www/html/gunrightslinks/wp-content/plugins/bot-nemesis_a70e62391918470693b19c90857cad8b/js/libraries/datatables/media/js/jquery.dataTables.min.js",
+		"/var/www/html/gunrightslinks/wp-config.php",
+		"/home/jazz/Downloads/i3724851_wp1.sql",
+		"/var/www/html/gunrightslinks/wp-content/themes/juxter/style.css",
+		"/var/www/html/gunrightslinks/wp-content/themes/juxter/front-page.php",
+		"/home/jazz/Downloads/wp2.sql",
+		"/etc/php/7.0/apache2/php.ini",
+		"/home/jazz/branchmarketing/config/database.yml"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 98.0,
+		"where_history":
+		[
+			"/var/www/html/gunrightslinks/wp-content/themes/juxter"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Utf8mb4_",
+			"Utf8mb4_unicode",
+			"Utf8mb4_unicode_520_ci",
+			"utf8mb4",
+			"http://gunrightslinks.com/",
+			"http://gunrightslinks.com",
+			"max_input_time",
+			"http://gunrightslinks.com/",
+			"Apologies, but no entries were found.\t",
+			"http://gunrightslinks.com"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"utf8",
+			"http://localhost/gunrightslinks/",
+			"http://localhost/gunrightslinks",
+			"http://localhost/gunrightslinks/",
+			"http://localhost/gunrightslinks"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 177,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 102.0
+	},
+	"output.find_results":
+	{
+		"height": 27.0
+	},
+	"pinned_build_system": "",
+	"project": "ex01.rb",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 255.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
